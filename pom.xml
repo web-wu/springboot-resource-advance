@@ -11,6 +11,12 @@
     <modules>
         <module>springboot-test</module>
         <module>springboot-condition</module>
+        <module>springboot-enable</module>
+        <module>springboot-enable-entity</module>
+        <module>jedis-spring-boot-start-autoconfiguration</module>
+        <module>jedis-spring-boot-start</module>
+        <module>myjedis-spring-boot-start</module>
+        <module>wu-jedis-spring-boot-start</module>
     </modules>
 
     <properties>
